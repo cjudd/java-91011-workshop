@@ -15,7 +15,7 @@ java jcurl.java  https://www.cpclerk.co.summit.oh.us
 2. Make jcurler executable.
 
 - Add shebang as the first line of the file.
-```
+```java
 #!/usr/bin/java --source 11 
 //LAB - JEP330: add shebang to make the file executable
 
