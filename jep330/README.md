@@ -1,5 +1,7 @@
 # JEP 330 Lab
-[JEP 330: Launch Single-File Source-Code Programs](https://openjdk.java.net/jeps/330)
+[JEP 330: Launch Single-File Source-Code Programs](https://openjdk.java.net/jeps/330)<br>
+Release: 11 <br>
+Component: tools/javac
 
 1. Run the jcurl.java file passing the URL to a website from the command-line without compiling it first.
 
