@@ -8,6 +8,7 @@ import java.util.UUID;
 /**
  * Implementation of the PeopleService interface.
  */
+//LAB - JEP224: a searchable index of searchme.
 public class PeopleServiceImpl implements PeopleService {
     @Override
     public List<Person> findAllPeople() {

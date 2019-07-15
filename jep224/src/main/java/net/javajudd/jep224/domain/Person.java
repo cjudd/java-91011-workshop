@@ -4,7 +4,7 @@ import java.util.Objects;
 import java.util.UUID;
 
 /**
- * Business domain class representing a person in the application.
+ * Business {@index domain} class representing a person in the application.
  */
 public class Person {
 
