@@ -57,18 +57,6 @@ cd ../work/org.apache.commons.lang3/
 javac -p org.apache.commons.lang3 -d ../../clclasses/ module-info.java
 jar uf ../../out/org.apache.commons.lang3.jar -C ../../clclasses module-info.class
 cd ../../..
-
-
-
-mkdir target/cljar
-cd target/cljar
-jar xf ../lib/commons-lang3-3.9.jar
-cd ../../
-mkdir target/clclasses
-cd target/work/org.apache.commons.lang3/
-javac -p org.apache.commons.lang3 -d ../../clclasses/ module-info.java
-cp lib/commons-lang3-3.9.jar target/lib
-jar uf target/lib/commons-lang3-3.9.jar -C target/clclasses module-info.class
 ```
 
 8. Link modules.
