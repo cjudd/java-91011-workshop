@@ -84,7 +84,8 @@ public class CustomerServiceImpl implements CustomerService {
     static {
         // here
         for (var i = 0; i < 10; i++) {
-            Customer customer = new Customer(i, format("Customer: %d", i));
+            // here
+            var customer = new Customer(i, format("Customer: %d", i));
             allCustomers.add(customer);
         }
     }
@@ -96,7 +97,8 @@ public class CustomerServiceImpl implements CustomerService {
 
     @Override
     public List<Customer> findOddCustomers() {
-        List<Customer> customers = new ArrayList<>();
+        //here
+        var customers = new ArrayList<Customer>();
 
         // here
         for (var customer: allCustomers) {
