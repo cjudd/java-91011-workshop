@@ -5,8 +5,8 @@ Component: tools/javadoc
 
 1. Generate and view JavaDoc.
 1. Search for People and Person.
-1. Add index of searchme to PersonServiceImpl.
+1. Add index of searchme to PeopleServiceImpl.
 1. Generate and view JavaDoc.
-1. Search for searchable.
+1. Search for searchme.
 
 [Solutions](SOLUTIONS.md)
