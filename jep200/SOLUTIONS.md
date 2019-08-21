@@ -1,4 +1,4 @@
-# JEP 222 Lab Solutions
+# JEP 200 Lab Solutions
 
 
 1. Compile src/main/java/net/javajudd/jep200/Main.java.
