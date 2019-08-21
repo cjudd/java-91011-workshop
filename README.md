@@ -12,3 +12,4 @@ Java 9, 10, 11 Workshop for preparing Java developers to migrate from Java 8 (LT
 1. [JEP 286: Local-Variable Type Inference & JEP 323: Local-Variable Syntax for Lambda 
 Parameters](jep286/README.md)
 1. [JEP 321: HttpClient](jep321/README.md)
+1. [JEP 327: Unicode](jep327/README.md)
