@@ -3,6 +3,7 @@
 Release: 9 <br>
 Component: tools/jshell
 
+1. Change to jep222 directory.
 1. Open jshell.
 1. List help.
 1. Add two numbers storing the value in a variable.

@@ -2,6 +2,9 @@
 
 
 1. Open JShell. 
+
+Note: Assumes you are in the jep222 directory.
+
 ```
 jshell
 ```
@@ -15,11 +18,12 @@ int sum(int a, int b) {
    return a + b;
 }
 var s = sum(4, 8)
-/open jep222/Person.java
+/open Person.java
 /type
 var p = new Person().withName("Chris")
-System.out.println(p);
-/env --class-path jep222/lib/commons-lang3-3.9.jar
+System.out.println(p)
+System.out.println(p.getName())
+/env --class-path lib/commons-lang3-3.9.jar
 import org.apache.commons.lang3.builder.ToStringBuilder
 /import
 ToStringBuilder.reflectionToString(p)
