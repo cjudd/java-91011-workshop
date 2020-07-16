@@ -1,9 +1,9 @@
 # JEP 158 Lab
-[JEP 158: Unified JVM Logging](https://openjdk.java.net/jeps/158) & [JEP 225: JavaDoc Search](https://openjdk.java.net/jeps/225)<br>
+[JEP 158: Unified JVM Logging](https://openjdk.java.net/jeps/158) <br>
 Release: 9 <br>
 Component: hotspot/svc
 
-1. Change directory to jemp158
+1. Change directory to jep158
 ~~~
 cd jep158
 ~~~
