@@ -13,5 +13,6 @@ Java 9, 10, 11 Workshop for preparing Java developers to migrate from Java 8 (LT
 Parameters](jep286/README.md)
 1. [JEP 321: HttpClient](jep321/README.md)
 1. [JEP 327: Unicode](jep327/README.md)
+1. [JEP 158: Unified JVM Logging](jep158/README.md)
 1. [Docker Support](docker/README.md)
 1. [Upgrade Project](upgrade/README.md)
